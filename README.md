@@ -1,91 +1,61 @@
-Power BI Business Performance Dashboard
-📊 Project Overview
+📊 Project Title
+# Power BI Business Performance Dashboard
 
-This project focuses on building an interactive Business Performance Dashboard using Power BI to analyze and visualize key business metrics. The dashboard helps stakeholders track sales performance, profitability, growth trends, and operational KPIs, enabling data-driven decision-making through clear and actionable insights.
+📌 Project Description
+An interactive Power BI dashboard designed to analyze business performance through key metrics such as sales, revenue growth, and profitability. This project focuses on transforming raw data into actionable insights using optimized tabular data models and DAX calculations.
 
 🎯 Objectives
-
-Transform raw business data into meaningful insights
-
-Design an executive-level dashboard for performance tracking
-
-Implement efficient data modeling for fast and accurate reporting
+- Analyze and monitor key business performance indicators  
+- Design executive-level dashboards for decision-making  
+- Implement efficient tabular data models for faster reporting  
+- Deliver clear and actionable insights through data visualization  
 
 🛠 Tools & Technologies
-
-Power BI
-
-DAX
-
-Tabular Data Modeling
-
-SQL
+- Power BI Desktop  
+- DAX (Data Analysis Expressions)  
+- Tabular Data Modeling  
+- SQL  
 
 📈 Key Features
+- Interactive dashboards with slicers and filters  
+- KPI tracking for revenue, profit, and growth  
+- Month-over-Month and Year-over-Year analysis  
+- Optimized tabular data model for performance  
+- Clean and user-friendly visual design  
 
-Interactive dashboards with filters and slicers
+▶️ How to Run / Open the Dashboard
+### How to Run / Open the Dashboard
 
-KPI tracking for revenue, profit, and growth
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/amangadava914/powerbi-business-dashboard.git
 
-Time-based analysis (Month-over-Month, Year-over-Year)
 
-Well-structured tabular data model for optimized performance
+Open the .pbix file using Power BI Desktop
 
-Clean and intuitive visual design for easy interpretation
+Refresh the data to load the dataset
 
-🧠 Key Learnings
+Use filters and slicers to explore business insights
 
-Designing star-schema data models in Power BI
 
-Writing optimized DAX measures for business KPIs
+---
 
-Improving report performance using tabular modeling techniques
-
-Translating business requirements into analytical visuals
+## 🔁 Using Your Own Data
+```md
+- Replace files in the `data/` folder with your own dataset  
+- Ensure column names and schema remain consistent  
+- Refresh the report to update all visuals automatically  
 
 📂 Repository Structure
-├── data/               # Sample datasets used for analysis
+├── data/               # Sample datasets
 ├── dashboard/          # Power BI (.pbix) file or screenshots
 ├── sql/                # SQL queries for data preparation
 ├── README.md           # Project documentation
 
 🚀 Use Case
+This dashboard can be used by business analysts and decision-makers to track performance trends, identify growth opportunities, and support data-driven strategic planning.
 
-This dashboard can be used by business analysts, managers, and decision-makers to monitor performance, identify trends, and support strategic planning.
-
-▶️ How to Run / Open the Dashboard
-
-Clone the repository
-
-git clone https://github.com/amangadava914/powerbi-business-dashboard.git
-
-
-Open the Power BI file
-
-Navigate to the dashboard/ folder
-
-Open the .pbix file using Power BI Desktop
-(Download from: https://powerbi.microsoft.com/desktop/
-)
-
-Load or refresh data
-
-If sample data is provided, ensure the file paths are correctly mapped
-
-Click Refresh in Power BI to load the latest data
-
-Explore the dashboard
-
-Use slicers and filters to analyze data by date, region, or category
-
-Hover over visuals for detailed insights
-
-Navigate between report pages for different performance views
-
-🔁 Optional: Using Your Own Data
-
-Replace the files in the data/ folder with your own dataset
-
-Ensure column names and schema match the existing data model
-
-Refresh the report to update visuals automatically
+👤 Author
+**Aman Gadava**  
+GitHub: https://github.com/amangadava914  
+LinkedIn: https://www.linkedin.com/in/aman-gadava-28696a214/
